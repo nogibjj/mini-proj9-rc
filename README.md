@@ -36,6 +36,11 @@ This project demonstrates data manipulation tasks performed on a sample dataset 
 
 - `lib/`: A directory containing utility functions for calculating statistics.
 
+## Outputs / Results
+The following is the contribution of students' grades from Jupyter Notebook:
+<img width="752" alt="Screenshot 2023-10-31 at 21 07 51 copy" src="https://github.com/nogibjj/mini-proj9-rc/assets/123079408/bb6f7d61-4452-45af-8419-7b05b848b884">
+
+
 ## Conclusion
 
 This project demonstrates the setup of a cloud-hosted Jupyter Notebook environment, data manipulation tasks on a sample dataset, and the reporting of statistics and visualizations. Feel free to explore the notebook for a detailed walkthrough of the code and analysis.
