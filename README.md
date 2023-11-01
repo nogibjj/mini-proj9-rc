@@ -2,7 +2,7 @@
 
 This project demonstrates data manipulation tasks performed on a sample dataset using a cloud-hosted Jupyter Notebook, specifically Google Colab.
 
-## Requirements
+## Requirements 
 
 1. **Setup and Configuration:** I have set up a Google Colab environment and imported the necessary libraries, including Polars for data manipulation and Matplotlib for data visualization. The code is organized into functions for ease of use.
 
@@ -37,7 +37,7 @@ This project demonstrates data manipulation tasks performed on a sample dataset 
 - `lib/`: A directory containing utility functions for calculating statistics.
 
 ## Outputs / Results
-The following is the contribution of students' grades from Jupyter Notebook:
+The following is the contribution of student grades from Jupyter Notebook:
 <img width="752" alt="Screenshot 2023-10-31 at 21 07 51 copy" src="https://github.com/nogibjj/mini-proj9-rc/assets/123079408/bb6f7d61-4452-45af-8419-7b05b848b884">
 
 
